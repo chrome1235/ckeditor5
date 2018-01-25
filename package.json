@@ -31,6 +31,7 @@
     "@ckeditor/ckeditor5-engine": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-enter": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-essentials": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-font": "git://github.com/ckeditor/ckeditor5-font#t/4",
     "@ckeditor/ckeditor5-heading": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-image": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-link": "^1.0.0-alpha.2",
