@@ -35,7 +35,8 @@ It breaks CKEditor 5 (see how <p><code>[]</code></p> looks). */
 
 .ck-reset.ck-list {
 	/* See https://github.com/ckeditor/ckeditor5/issues/494 */
-	margin-left: 0;
+	margin: 0;
+	padding: 0;
 }
 
 /* examples/builds/inline-editor.html */
